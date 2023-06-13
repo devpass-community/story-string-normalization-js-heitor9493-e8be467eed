@@ -4,4 +4,4 @@ function removeAccent(str) {
 
 console.log(removeAccent("São paulo"));
 
-// module.exports = removeAccent;
+module.exports = removeAccent;
